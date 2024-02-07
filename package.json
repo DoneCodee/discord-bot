@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1"
+  },
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Projeto bot Discord para servidor DoneCode Community.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabrizio Silveira",
+  "license": "ISC"
+}
